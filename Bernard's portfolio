@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Okoth's Portfolio Information Security & Forensics Student</title>
+</head>
+<body background="paperbg.jpg" style="background-size: 130%;" >
+  <style >
+    h1 {text-align: center;}
+    body {background-position: center; background-size: ;}          
+    h1 {color: rgb(255, 255, 255);}
+    h2 {color: rgb(25, 238, 25);}
+    main{ }
+</style>
+
+    <h1 >OKOTH BERNARD WYCLIFFE</h1>
+    <img src=""
+    <h2>Information Security & Forensics (BISF) Student</h2>
+    <h2> Reg No: 23/08325</h2>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I am a student at KCA University currently pursuing an undergraduate degree course in Information Security and Forensics.</p>
+      <p>Am a team player who is ready and willing to apply my learned skills especially to the growth of cybersecurity.</p>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Web design</li>
+        <li>Video Editing</li>
+        <li>Transcription</li>
+        <li>Coding</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <p> Design of a portfolio website in html code.</p>
+      <ul>
+        <li>
+          <h3>Project Title</h3>
+          <p>Application of Html program code to create a portfolio website.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Feel free to reach out to me for any inquiries or opportunities.</p>
+      <ul>
+        <li>Email: okotbh@gmail.com </li>
+        <li>School Email: 2308325@students.kcau.ac.ke </li>
+      </ul>
+      <table>
+        <tr>
+          <th>Social website 1 </th>
+          <th>Social website 2 </th>
+          <th>Social website 3 </th>
+          <th>Social website 4 </th>
+        </tr>
+        <tr>
+          <td> Facebook</td>
+          <td> Telegram</td>
+          <td> Youtube</td>
+          <td> Instagram </td>
+        </tr>
+      </table>
+      <table border="2">
+        <tr>
+          <th>Social website 1 </th>
+          <th>Social website 2 </th>
+          <th>Social website 3 </th>
+          <th>Social website 4 </th>
+        </tr>
+        <tr>
+          <td> Facebook</td>
+          <td> Telegram</td>
+          <td> Youtube</td>
+          <td> Instagram </td>
+        </tr>
+      </table>
+      <form>
+        <label for="text"> Send a message </label>
+        <input type="text" id= "message" name = "text message"> <br>
+      </form>
+      <form>
+        <input type="radio" id="facebook" name="facebook"> 
+        <label for="facebook"> Facebook </label><br>
+        <input type="radio" id="facebook" name="facebook"> 
+        <label for="LinkedIn"> LinkedIn </label>
+      </form><br>
+      <p>Or</p>
+      <form >
+            <input type="checkbox" id="box" name="box">
+            <label for="checkbox"> Facebook</label><br>
+            <input type="checkbox" id="box" name="box">
+            <label for="checkbox">Youtube </label><br>
+            <input type="checkbox" id="box" name="box">
+            <label for="checkbox"> Instagram</label><br>
+      </form>
+      <form>
+        <label for="text"> Username </label>
+        <input type="text" id="username" name="facebook"><br> 
+        <label for="password"> Password </label>
+        <input type="password" id="password" name="password"> 
+      </form><br>
+      <form>
+        <button> Submit </button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; OKOTH BERNARD W</p>
+  </footer>
+</body>
+</html>
